@@ -4,7 +4,7 @@ Install the Android downloader published by Ramos Apps Studio to download RASK r
 
 ## Download and install
 
-1. Open [Latest Release](https://github.com/ramosappstudio/RASing-pack-setup/releases/latest).
+1. Open [Latest Release](https://github.com/ramosappstudio/resources-setup/releases/latest).
 2. Under **Assets**, download **resources-downloader.apk**.
 3. Open the APK. If Android asks, allow your browser to install unknown apps.
 4. Follow Android's installation prompts.
