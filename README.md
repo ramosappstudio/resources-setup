@@ -19,6 +19,11 @@ Allow notifications to see download progress and the Cancel button. Force-stoppi
 
 After downloading, open the RAS Karaoke player and select the prepared **RASK** folder when prompted.
 
+**Remote app** saves the Remote controller APK under **RASK/remote/**. Open the
+saved APK to install it on the Android device you use as a remote.
+**Songbook** saves **RASing Songbook.pdf** under **RASK/songbook/** for viewing
+or printing. These categories require Karaoke Resources 0.1.9 or newer.
+
 ## Updates
 
 Use **About → Check for updates** in Karaoke Resources, or download the latest APK from this repository. Android will ask you to confirm installation. In-place updates also require a compatible signing key and a higher version code.
