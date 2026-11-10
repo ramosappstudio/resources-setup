@@ -24,6 +24,10 @@ saved APK to install it on the Android device you use as a remote.
 **Songbook** saves **RASing Songbook.pdf** under **RASK/songbook/** for viewing
 or printing. These categories require Karaoke Resources 0.1.9 or newer.
 
+**Score sound sets** saves the Classic set under **RASK/score-sets/classic/**.
+In the RAS Karaoke player, open **Settings → Sound set → Choose folder** and
+select **classic**. This category requires Karaoke Resources 0.2.0 or newer.
+
 ## Updates
 
 Use **About → Check for updates** in Karaoke Resources, or download the latest APK from this repository. Android will ask you to confirm installation. In-place updates also require a compatible signing key and a higher version code.
